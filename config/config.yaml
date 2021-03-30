@@ -1,5 +1,5 @@
 # your domain
-domain: ssrproxypool.herokuapp.com
+domain: ssproxypool.herokuapp.com
 port:                 # default 12580
 
 # source list file
