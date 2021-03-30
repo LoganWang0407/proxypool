@@ -1,5 +1,5 @@
 # your domain
-domain: example.com
+domain: appname.herokuapp.com
 port:                 # default 12580
 
 # source list file
@@ -29,5 +29,5 @@ active-frequency:     # default 100 (requests per interval)
 active-max-number:    # default 100. If more than this number of active proxies, the extra will be deprecated by speed
 
 # cloudflare api
-cf_email: ""
-cf_key: ""
+cf_email: "1126398593@qq.com"
+cf_key: "b36bf0500939be6b186f755e2621819f77b68"
